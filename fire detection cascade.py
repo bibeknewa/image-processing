@@ -1,7 +1,5 @@
 import numpy as np
 import cv2
-import serial
-import time
 
 fire_cascade = cv2.CascadeClassifier('fire_detection.xml')
 
