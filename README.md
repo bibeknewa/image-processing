@@ -1,3 +1,3 @@
 # image-processing
-fire detection
-this code is using  cascade classifier to detecting fire
+
+this code is using  cascade classifier to detecting fire. 
